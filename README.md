@@ -13,4 +13,6 @@ I'm...
 ======================================
 You can reach me by email to sohyelee@gmail.com 
 ======================================
-www.sohyelee.com
+Portfolios :      
+sohyelee.com      
+sohye.dev
