@@ -1,13 +1,12 @@
-👋 
-Hello, I’m Sohye Lee
+Sohye Lee
 ======================================
-Aspiring Web Developer
+Web Developer & UI Designer
 ======================================
 I'm...      
 .. focused on Front End Development
 .. interested in Arts, Yoga, Forensic Movies          
-.. currently learning TypeScript, GraphQL, NestJS, Django        
-.. JavaScript, React, React Native,       
+.. currently learning TypeScript, Django        
+.. JavaScript, React, React Native, Sass
 .. Python, R, MySQL,         
 .. NodeJS, MongoDB, Express      
 ======================================
