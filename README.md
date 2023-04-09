@@ -1,4 +1,4 @@
-So Hye Lee (Sophie)  
+Sohye Lee (Suumer)  
 ======================================  
 Web Developer & UI Designer  
 ======================================  
@@ -8,7 +8,7 @@ passionate with building creative services/interfaces
 interested in Arts, Yoga, Forensic Movies   
 currently learning Django, AWS, TypeScript 
       
-- JavaScript, SASS, React, C#     
+- JavaScript, SASS, React, C#, NextJS, Typescript     
 - Python, R, MySQL   
 - NodeJS, MongoDB, Express, .Net Core   
     
