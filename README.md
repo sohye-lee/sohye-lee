@@ -1,4 +1,4 @@
-Sohye Lee (Summer)  
+Sohye Kim
 ======================================  
 Web Developer & UI Designer  
 ======================================  
